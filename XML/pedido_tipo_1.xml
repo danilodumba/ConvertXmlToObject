@@ -1,0 +1,27 @@
+<pedido>
+    <numero>101010</numero>
+    <data>2019-05-30T16:05:00</data>
+    <cliente>Joao da Silva</cliente>
+    <itens>
+        <item>
+            <id>1</id>
+            <produto> Mustang GT</produto>
+            <quantidade>2</quantidade>
+        </item>
+        <item>
+            <id>2</id>
+            <produto>Corsa Wind</produto>
+            <quantidade>20</quantidade>
+        </item>
+        <item>
+            <id>3</id>
+            <produto>Macbook Pro Apple</produto>
+            <quantidade>1</quantidade>
+        </item>
+        <item>
+            <id>4</id>
+            <produto>Agua Mineral</produto>
+            <quantidade>3</quantidade>
+        </item>
+    </itens>
+</pedido>

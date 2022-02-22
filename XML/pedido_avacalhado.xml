@@ -1,0 +1,30 @@
+<pedido>
+    <numero>121212</numero>
+    <data>2022-02-22T16:05:00</data>
+    <cliente>Ze Avacalhado</cliente>
+    <item>
+        <id>1</id>
+        <produto> Uno Mile</produto>
+        <quantidade>2</quantidade>
+    </item>
+    <item>
+        <id>2</id>
+        <produto>Corsa Wind</produto>
+        <quantidade>20</quantidade>
+    </item>
+    <item>
+        <id>3</id>
+        <produto>Picole de Saquinho</produto>
+        <quantidade>1</quantidade>
+    </item>
+    <item>
+        <id>4</id>
+        <produto>Q-Suco</produto>
+        <quantidade>3</quantidade>
+    </item>
+     <item>
+        <id>5</id>
+        <produto>Acucar</produto>
+        <quantidade>3</quantidade>
+    </item>
+</pedido>
